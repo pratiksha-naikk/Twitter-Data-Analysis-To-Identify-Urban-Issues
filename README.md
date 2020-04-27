@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis
+# Twitter-Data-Analysis-to-Identify-Urban-Issues
 
 ## Problem Statement
   In our project, we used data from Twitter- social media platform- to find issues that people deal with in day-to-day life. As this generates a huge amount of data, we have restricted our project to only Urban Problems. This includes things as simple as potholes and uncleared garbage dumps to something that can cause huge disastrous consequences like weak bridges and human trafficking. These are problems that disrupt a person’s day-to-day life if not dealt with and so we plan to ensure that the problems are heard and are addressed.
