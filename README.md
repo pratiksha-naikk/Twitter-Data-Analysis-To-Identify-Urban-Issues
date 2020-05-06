@@ -5,7 +5,7 @@
   
   We chose Twitter for two main reasons. One, it uses text as the most common format of posts and two, Twitter is already the most commonly used platform for people to complain or share the problems they’re facing. This makes it a good source for us to collect data and analyze it to find data relevant to urban issues and people do not have tolearn how to use a new interface.
   
-## Objective
+### Objective
 The objective of this project is to use tweets to find problems citizens in urban areas are
 facing on a daily basis. This is to help identify issues based on their type and bring it to
 the notice of the concerned authorities as well as keep the public informed of the
