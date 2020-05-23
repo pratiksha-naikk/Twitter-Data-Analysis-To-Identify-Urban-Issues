@@ -1,0 +1,167 @@
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*-----Navigation-----*/
+#nav
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    font-size: 18px;
+    font-weight:500;
+ 
+}
+
+.navbar-brand img
+{
+    height:110px;
+    padding-left: 20px;
+}
+
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+
+#nav ul li a:hover
+{
+    color: #2B4F81;
+}
+
+.navbar{
+    background: #fff;
+}
+
+/*-----About-----*/
+#about
+{
+    padding-top:50px;
+    padding-bottom:50px;
+    color:white;
+    font-family: 'Merriweather', serif;
+    background-color: #212f3d;
+    
+}
+
+
+.about-content{
+    padding-top:20px;
+}
+
+/*-----Projects-----*/
+
+#projects
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color:black;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.picture
+{
+    margin-top: 25px;
+}
+
+.picture .imgg
+{
+    opacity:1;
+    position: relative;
+    display: block;
+}
+
+.picture h3
+{
+    margin-top: 25px;
+}
+
+.picture p
+{
+    text-align: left;
+    font-size: 16px;
+    margin-top: 20px;
+   
+}
+
+/*-----Trails-----*/
+
+#trails
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color:white;
+    font-family: 'Merriweather', serif;
+    background-color: #212f3d ;
+    
+}
+
+h1{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.picture
+{
+    margin-top: 25px;
+}
+
+.picture .imgg
+{
+    opacity:1;
+    position: relative;
+    display: block;
+}
+
+.picture h3
+{
+    margin-top: 25px;
+}
+
+.picture p
+{
+    text-align: left;
+    font-size: 16px;
+    margin-top: 20px;
+   
+}
+
+/*-----Contact Us-----*/
+
+#contact
+{
+    background-color: #efefef;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Merriweather', serif;
+}
+
+.contact-form
+{
+    padding: 15px;
+}
+
+/*-----Footer-----*/
+
+#footer
+{
+    background-color:#333;
+    color:white;
+    padding:15px;
+}
