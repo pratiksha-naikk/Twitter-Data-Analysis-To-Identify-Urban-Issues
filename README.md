@@ -10,6 +10,7 @@ The objective of this project is to use tweets to find problems citizens in urba
 facing on a daily basis. This is to help identify issues based on their type and bring it to
 the notice of the concerned authorities as well as keep the public informed of the
 frequency of the issues every fortnight.
+
 This can be summarised in 3 points:
 * Identifying issues among thousands of tweets.
 * Segregate and publicise the problems based on their type.
