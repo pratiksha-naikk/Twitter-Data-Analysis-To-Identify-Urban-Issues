@@ -18,3 +18,6 @@ This can be summarised in 3 points:
 
 This is a completely volunteer-at-will-based project where a person brings the problems
 to notice by their own choice.
+
+### Categories
+
