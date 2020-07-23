@@ -20,10 +20,19 @@ This is a completely volunteer-at-will-based project where a person brings the p
 to notice by their own choice.
 
 ### Categories
-We have categorised the urban issues into these categories :
+We have grouped the urban issues into these categories :
 1. Trains
 1. Traffic and Transport Related
 1. Potholes
 1. Hawkers
 1. Illegal Banners
+1. Noise 
+1. Water Supply
+1. Violence
+1. Scam / Fraud
+1. Harassessment
+1. Robbery
+1. Garbage Mismanagement
+1. Missing Person
+1. Electricity Related
 
