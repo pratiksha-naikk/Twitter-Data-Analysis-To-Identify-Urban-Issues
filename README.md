@@ -43,7 +43,11 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 1. Electricity Related
 1. Gas Related
 
-### Implementation of Machine Learning Algorithms 
+### Data Preprocessing
+
+### Complaint or Not ?
+
+### Categorizing the complaints using Machine Learning Algorithms
 
 ### Visualization
 
