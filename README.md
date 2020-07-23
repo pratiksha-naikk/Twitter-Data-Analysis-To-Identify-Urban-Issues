@@ -20,4 +20,10 @@ This is a completely volunteer-at-will-based project where a person brings the p
 to notice by their own choice.
 
 ### Categories
+We have categorised the urban issues into these categories :
+1. Trains
+1. Traffic and Transport Related
+1. Potholes
+1. Hawkers
+1. Illegal Banners
 
