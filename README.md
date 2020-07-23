@@ -22,7 +22,7 @@ to notice by their own choice.
 ### Categories
 We have grouped the urban issues into these categories :
 1. Trains
-1. Traffic and Transport Related
+1. Traffic
 1. Potholes
 1. Transport
 1. Illegal Parking and Hawkers
@@ -33,5 +33,11 @@ We have grouped the urban issues into these categories :
 1. Harassessment
 1. Robbery
 1. Garbage Mismanagement
+1. High Electricity Bills
+1. Drainage and Water Supply Issues
+1. Missing Person
+1. Electricity Related
+1. Gas Related
+
 
 
