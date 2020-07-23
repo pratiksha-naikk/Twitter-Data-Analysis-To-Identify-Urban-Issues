@@ -19,7 +19,10 @@ This can be summarised in 3 points:
 This is a completely volunteer-at-will-based project where a person brings the problems
 to notice by their own choice.
 
-### Categories
+### Data Scraping and Manual Labelling
+
+
+#### Categories
 After gathering tweets from Mumbai region, we concluded that we can majorly categorise them into these 17 sections:
 1. Trains
 1. Traffic
@@ -38,6 +41,8 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 1. Missing Person
 1. Electricity Related
 1. Gas Related
+
+
 
 
 
