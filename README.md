@@ -47,7 +47,7 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 
 ### Complaint or Not ?
 
-### Categorizing the complaints using Machine Learning Algorithms
+### Categorizing the Complaints using Machine Learning Algorithms
 
 ### Visualization
 
