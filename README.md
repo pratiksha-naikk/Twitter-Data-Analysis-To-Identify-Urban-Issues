@@ -20,7 +20,7 @@ This is a completely volunteer-at-will-based project where a person brings the p
 to notice by their own choice.
 
 ### Categories
-After gathering tweets from Mumbai region, we concluded that we can majorly categorise them into these 17 sections :
+After gathering tweets from Mumbai region, we concluded that we can majorly categorise them into these 17 sections:
 1. Trains
 1. Traffic
 1. Potholes
