@@ -46,7 +46,7 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 ### Data Preprocessing
 
 ### Complaint or Not ?
-
+The next task after data preprocessing, is to determine whether a tweet can be classified as a complaint or not. To do the same various machine learning techniques can be used. These methods give varying percentage of accuracy. 
 ### Categorizing the Complaints using Machine Learning Algorithms
 
 ### Visualization
