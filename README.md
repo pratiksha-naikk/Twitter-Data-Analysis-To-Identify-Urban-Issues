@@ -46,7 +46,8 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 ### Data Preprocessing
 
 ### Complaint or Not ?
-The next task after data preprocessing, is to determine whether a tweet can be classified as a complaint or not. To do the same various machine learning techniques can be used. These methods give varying percentage of accuracy. 
+The next task after data preprocessing, is to determine whether a tweet can be classified as a complaint or not. To do the same various machine learning techniques can be used, which give varying percentages of accuracy. Therefore we performed them on the historical data to find the one which gave the highest accuracy. Naive Bayes, SVM, Bag of Words,Logistic Regression, K Neighbours, Decision Tree, Random Forest and SGD were implemented. Out of which SVM gave the highest percentage of accuracy.
+
 ### Categorizing the Complaints using Machine Learning Algorithms
 
 ### Visualization
