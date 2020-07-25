@@ -54,10 +54,10 @@ The next task after data preprocessing, is to determine whether a tweet can be c
 | SVM  | 89.08 %  | 87.17 %  |
 | Bag of Words  | 85.49 %  | 71.87 %  |
 | Logistic Regression  | 88.86 %  | 86.67 %  |
-| K Neighbours  | Content Cell  | Content Cell  |
-| Decision Tree  | Content Cell  | Content Cell  |
-| Random Forest  | Content Cell  | Content Cell  |
-| SGD  | Content Cell  | Content Cell  |
+| K Neighbours  | 85.54 %  | 85.60 %  |
+| Decision Tree  | 85.82 %  | 85.09 %  |
+| Random Forest  | 85.60 %  | 85.60 %  |
+| SGD  | 88.58 %  | 86.67 %  |
 
 ### Visualization
 
