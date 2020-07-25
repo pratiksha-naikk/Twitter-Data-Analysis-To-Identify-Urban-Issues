@@ -48,6 +48,17 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 ### Complaint or Not ? || Categorizing the Complaints using Machine Learning Algorithms
 The next task after data preprocessing, is to determine whether a tweet can be classified as a complaint or not. To do the same various machine learning techniques can be used, which give varying percentages of accuracy. Therefore we performed them on the historical data to find the one which gave the highest accuracy. Naive Bayes, SVM, Bag of Words,Logistic Regression, K Neighbours, Decision Tree, Random Forest and SGD were implemented. Out of which SVM gave the highest percentage of accuracy. Similar results were observed while categorizing the tweets into the 17 sections.
 
+| ML Technique  | Complaint Detection Accuracy | Categorization Accuracy |
+| ------------- | ------------- | ------------- |
+| Naive Bayes  | Content Cell  | Content Cell  |
+| SVM  | Content Cell  | Content Cell  |
+| Bag of Words  | Content Cell  | Content Cell  |
+| Logistic Regression  | Content Cell  | Content Cell  |
+| K Neighbours  | Content Cell  | Content Cell  |
+| Decision Tree  | Content Cell  | Content Cell  |
+| Random Forest  | Content Cell  | Content Cell  |
+| SGD  | Content Cell  | Content Cell  |
+
 ### Visualization
 
 ### Website
