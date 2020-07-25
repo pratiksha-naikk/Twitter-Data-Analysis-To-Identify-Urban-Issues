@@ -50,10 +50,10 @@ The next task after data preprocessing, is to determine whether a tweet can be c
 
 | ML Technique  | Complaint Detection Accuracy | Categorization Accuracy |
 | ------------- | ------------- | ------------- |
-| Naive Bayes  | Content Cell  | Content Cell  |
-| SVM  | Content Cell  | Content Cell  |
-| Bag of Words  | Content Cell  | Content Cell  |
-| Logistic Regression  | Content Cell  | Content Cell  |
+| Naive Bayes  | 87.34 %  | 85.65 %  |
+| SVM  | 89.08 %  | 87.17 %  |
+| Bag of Words  | 85.49 %  | 71.87 %  |
+| Logistic Regression  | 88.86 %  | 86.67 %  |
 | K Neighbours  | Content Cell  | Content Cell  |
 | Decision Tree  | Content Cell  | Content Cell  |
 | Random Forest  | Content Cell  | Content Cell  |
