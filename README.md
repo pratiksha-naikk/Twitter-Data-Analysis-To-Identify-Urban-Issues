@@ -44,7 +44,7 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 1. Gas Related
 
 ### Data Preprocessing
-Data preprocessing aims to facilitate the training/testing process by appropriately transforming and scaling the entire dataset. Before we can compartmentalize tweets, we need to preprocess them to get better accuracy.
+Data preprocessing aims to facilitate the training/testing process by appropriately transforming and scaling the entire dataset. Before we can compartmentalize tweets, we need to preprocess them to get better accuracy. Various packages are available in python which help to carry out this process. The flowchart below shows the steps and the packages we used to clean the dataset.
 
 ![alt text](https://github.com/adiimated/Twitter-Data-Analysis-To-Identify-Urban-Issues/blob/master/diagrams/Data%20Preprocessing%20Steps.png)
 
