@@ -23,7 +23,8 @@ to notice by their own choice.
 
 ### Data Scraping and Manual Labelling
 Gaining access to Twitter data is a simple process. First we applied for a developer account. After our request was approved,we scraped tweets with the user location 'Mumbai' with the help of Tweepy. Tweepy is an open-sourced library, hosted on GitHub and enables Python to communicate with Twitter platform and use its API. If you need more information on how to use Tweepy you can go to http://docs.tweepy.org/en/latest/getting_started.html
-#### Categories
+
+
 After gathering tweets from Mumbai region, we concluded that we can majorly categorise them into these 17 sections:
 1. Trains
 1. Traffic
@@ -42,6 +43,7 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 1. Missing Person
 1. Electricity Related
 1. Gas Related
+We manually labelled almost 10,000 tweets on the basis whether the tweet can be qualified as a complaint or not.
 
 ### Data Preprocessing
 Data preprocessing aims to facilitate the training/testing process by appropriately transforming and scaling the entire dataset. Before we can compartmentalize tweets, we need to preprocess them to get better accuracy. Various packages are available in python which help to carry out this process. The flowchart below shows the steps and the packages we used to clean the dataset.
