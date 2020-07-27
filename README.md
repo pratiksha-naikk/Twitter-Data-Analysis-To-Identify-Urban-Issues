@@ -69,6 +69,8 @@ The next task after data preprocessing, is to determine whether a tweet can be c
 ### Visualization
 Data visualization is the act of taking data and placing it into a visual context, such as a map or graph. Data visualizations make big and small data easier for the human brain to understand, and visualization also makes it easier to detect patterns, trends, and outliers in groups of data. Visualization in context of our project helps to understand which specific issues in Mumbai people are tweeting about and which of them are the most prominent. 
 
+Bar plots seemed to simplify our results the most ,also they are visually appealing. 
+
 ### Website
 
 ## Understanding Results with an Example :
