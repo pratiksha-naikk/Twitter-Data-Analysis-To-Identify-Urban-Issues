@@ -43,6 +43,7 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 1. Missing Person
 1. Electricity Related
 1. Gas Related
+
 We manually labelled almost 10,000 tweets on the basis whether the tweet can be qualified as a complaint or not.
 
 ### Data Preprocessing
