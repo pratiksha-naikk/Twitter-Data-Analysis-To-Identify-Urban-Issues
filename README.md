@@ -11,13 +11,9 @@ facing on a daily basis. This is to help identify issues based on their type and
 the notice of the concerned authorities as well as keep the public informed of the
 frequency of the issues every fortnight.
 
-This can be summarised in 3 points:
+This can be summarised in 2 points:
 * Identifying issues among thousands of tweets.
 * Segregate and publicise the problems based on their type.
-* Update the public about the frequency of these problems.
-
-This is a completely volunteer-at-will-based project where a person brings the problems
-to notice by their own choice.
 
 ## Steps :
 
