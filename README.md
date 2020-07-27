@@ -44,7 +44,7 @@ After gathering tweets from Mumbai region, we concluded that we can majorly cate
 1. Electricity Related
 1. Gas Related
 
-We manually labelled almost 10,000 tweets on the basis whether the tweet can be qualified as a complaint or not. Why adopt the tedious process of manually labelling the tweets to create training data, when you can use modified sentiment analysis to do the same ? The answer is simple : Accuracy. 
+We manually labelled almost 10,000 tweets on the basis whether the tweet can be qualified as a complaint or not. Why adopt the tedious process of manually labelling the tweets to create training data, when you can use modified sentiment analysis to do the same ? The answer is simple : Accuracy. Sentiment analysis gives much lower percentage accuracy compared to machine learning algorithms. The manual labelling also included sorting them into the predecided 17 categories. So now we have our training data ready.
 
 ### Data Preprocessing
 Data preprocessing aims to facilitate the training/testing process by appropriately transforming and scaling the entire dataset. Before we can compartmentalize tweets, we need to preprocess them to get better accuracy. Various packages are available in python which help to carry out this process. The flowchart below shows the steps and the packages we used to clean the dataset.
