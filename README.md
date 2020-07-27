@@ -22,7 +22,7 @@ to notice by their own choice.
 ## Steps :
 
 ### Data Scraping and Manual Labelling
-
+Gaining access to Twitter data is a simple process. First we applied for a developer account. After our request was approved,we scraped tweets with the user location 'Mumbai' with the help of Tweepy. Tweepy is an open-sourced library, hosted on GitHub and enables Python to communicate with Twitter platform and use its API.
 #### Categories
 After gathering tweets from Mumbai region, we concluded that we can majorly categorise them into these 17 sections:
 1. Trains
