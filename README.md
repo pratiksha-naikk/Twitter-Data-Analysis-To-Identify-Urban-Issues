@@ -65,6 +65,8 @@ The next task after data preprocessing, is to determine whether a tweet can be c
 | Random Forest  | 85.60 %  | 85.60 %  |
 | SGD  | 88.58 %  | 86.67 %  |
 
+A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems. After giving an SVM model sets of labeled training data for each category, they're able to categorize new text.
+
 ### Visualization
 Pandas and Matplotlib
 
