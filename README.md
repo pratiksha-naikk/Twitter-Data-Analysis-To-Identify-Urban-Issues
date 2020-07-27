@@ -68,5 +68,5 @@ Data visualization is the act of taking data and placing it into a visual contex
 
 ## Understanding Results with an Example :
 
-
+![alt text](https://github.com/adiimated/Twitter-Data-Analysis-To-Identify-Urban-Issues/blob/master/screenshots/Visualization.png)
 
