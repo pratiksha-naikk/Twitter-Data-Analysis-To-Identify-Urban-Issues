@@ -71,3 +71,6 @@ Data visualization is the act of taking data and placing it into a visual contex
 ![alt text](https://github.com/adiimated/Twitter-Data-Analysis-To-Identify-Urban-Issues/blob/master/screenshots/Visualization.png)
 
 When we tested our code with real time data, the image above was one of the outcomes. From that we can say that the biggest issue mumbaikers tweeted about in february is 'Traffic', followed by potholes,illegal banners and transportation .
+
+
+Created by Chandrakantha Sruthi, Shaily Pandey and Pratiksha Naik
