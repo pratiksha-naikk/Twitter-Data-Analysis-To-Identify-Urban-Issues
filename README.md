@@ -1,11 +1,18 @@
 # Twitter-Data-Analysis-to-Identify-Urban-Issues
 
-## Problem Statement :
+#### Table of contents
+
+1. [Problem Statement](#problem-statement)
+2. [Objective](#objective)
+    - [Subsection a](#subsection-a)
+    - [Subsection b](#subsection-b)
+
+## Problem Statement 
   Twitter is a good source for short and real time updates (known as tweets) and there are various techniques to extract and process people’s opinions and sentiments. In our project, we used data from Twitter- social media platform- to find issues that people deal with in day-to-day life. As this generates a huge amount of data, we have restricted our project to only Urban Problems. This includes things as simple as potholes and uncleared garbage dumps to something that can cause huge disastrous consequences like weak bridges and human trafficking. These are problems that disrupt a person’s day-to-day life if not dealt with and so we plan to ensure that the problems are heard and are addressed.
   
   We chose Twitter for two main reasons. One, it uses text as the most common format of posts and two, Twitter is already the most commonly used platform for people to complain or share the problems they’re facing. This makes it a good source for us to collect data and analyze it to find data relevant to urban issues and people do not have tolearn how to use a new interface.
   
-## Objective :
+## Objective 
 The objective of this project is to use tweets to find problems citizens in urban areas are
 facing on a daily basis. This is to help identify issues based on their type and bring it to
 the notice of the concerned authorities as well as keep the public informed of the
@@ -15,7 +22,7 @@ This can be summarised in 2 points:
 * Identifying issues among thousands of tweets.
 * Segregate and publicise the problems based on their type.
 
-## Steps :
+## Steps 
 
 ### Data Scraping and Manual Labelling
 Gaining access to Twitter data is a simple process. First we applied for a developer account. After our request was approved,we scraped tweets with the user location 'Mumbai'. Python library Tweepy was used in the process. Tweepy is an open-sourced library, hosted on GitHub and enables Python to communicate with Twitter platform and use its API. If you need more information on how to use Tweepy you can go to http://docs.tweepy.org/en/latest/getting_started.html
