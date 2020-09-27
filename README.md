@@ -7,7 +7,7 @@
 2. [Steps](#steps)
     - [Data Scraping and Manual Labelling](#data-scraping-and-manual-labelling)
     - [Data Preprocessing](#data-preprocessing)
-    - [Complaint or Not ? Categorizing the Complaints using Machine Learning Algorithms](#complaint-or-not?-categorizing-the-complaints-using-machine-learning-algorithms)
+    - [Complaint or Not ? Categorizing the Complaints using Machine Learning Algorithms](#complaint-or-not---categorizing-the-complaints-using-machine-learning-algorithms)
     - [Subsection b](#subsection-b)
     - [Subsection b](#subsection-b)
     
