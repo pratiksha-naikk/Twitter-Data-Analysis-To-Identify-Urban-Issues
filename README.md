@@ -5,11 +5,11 @@
 1. [Problem Statement](#problem-statement)
 2. [Objective](#objective)
 2. [Steps](#steps)
-    - [Data Scraping and Manual Labelling](#data-scraping-and-manual-labelling)
-    - [Data Preprocessing](#data-preprocessing)
-    - [Complaint or Not ? || Categorizing the Complaints using Machine Learning Algorithms](#complaint-or-not---categorizing-the-complaints-using-machine-learning-algorithms)
-    - [Visualization](#visualization)
-    - [Understanding Results with Real Time Data](#understanding-results-with-real-time-data)
+    * [Data Scraping and Manual Labelling](#data-scraping-and-manual-labelling)
+    * [Data Preprocessing](#data-preprocessing)
+    * [Complaint or Not ? || Categorizing the Complaints using Machine Learning Algorithms](#complaint-or-not---categorizing-the-complaints-using-machine-learning-algorithms)
+    * [Visualization](#visualization)
+    * [Understanding Results with Real Time Data](#understanding-results-with-real-time-data)
     
 
 ## Problem Statement 
