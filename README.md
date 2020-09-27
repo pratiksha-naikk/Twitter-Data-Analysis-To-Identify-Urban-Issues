@@ -1,6 +1,6 @@
 # Twitter-Data-Analysis-to-Identify-Urban-Issues
 
-## Table of contents
+## Table of content
 
 1. [Problem Statement](#problem-statement)
 2. [Objective](#objective)
