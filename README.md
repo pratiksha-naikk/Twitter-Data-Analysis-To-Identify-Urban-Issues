@@ -59,7 +59,7 @@ Data preprocessing aims to facilitate the training/testing process by appropriat
 
 ![alt text](https://github.com/adiimated/Twitter-Data-Analysis-To-Identify-Urban-Issues/blob/master/diagrams/Data%20Preprocessing%20Steps.png)
 
-### Complaint or Not ? Categorizing the Complaints using Machine Learning Algorithms
+### Complaint or Not ? || Categorizing the Complaints using Machine Learning Algorithms
 The next task after data preprocessing, is to determine whether a tweet can be classified as a complaint or not. To do the same various machine learning techniques can be used, which give varying percentages of accuracy. Therefore we performed them on the training data to find the one which gave the highest accuracy. Naive Bayes, SVM, Bag of Words,Logistic Regression, K Neighbours, Decision Tree, Random Forest and SGD were implemented. Out of which SVM gave the highest percentage of accuracy. Similar results were observed while categorizing the tweets into the 17 sections. Due to thses analytics, we zeroed on SVM as the algorithm to categorize the tweets.
 
 | ML Technique  | Complaint Detection Accuracy | Categorization Accuracy |
