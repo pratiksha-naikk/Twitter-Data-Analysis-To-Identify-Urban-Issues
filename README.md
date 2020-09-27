@@ -7,9 +7,9 @@
 2. [Steps](#steps)
     - [Data Scraping and Manual Labelling](#data-scraping-and-manual-labelling)
     - [Data Preprocessing](#data-preprocessing)
-    - [Complaint or Not ? Categorizing the Complaints using Machine Learning Algorithms](#complaint-or-not---categorizing-the-complaints-using-machine-learning-algorithms)
-    - [Subsection b](#subsection-b)
-    - [Subsection b](#subsection-b)
+    - [Complaint or Not ? || Categorizing the Complaints using Machine Learning Algorithms](#complaint-or-not---categorizing-the-complaints-using-machine-learning-algorithms)
+    - [Visualization](#visualization)
+    - [Understanding Results with Real Time Data](#understanding-results-with-real-time-data)
     
 
 ## Problem Statement 
@@ -79,7 +79,7 @@ The next task after data preprocessing, is to determine whether a tweet can be c
 Data visualization is the act of taking data and placing it into a visual context, such as a map or graph. Data visualizations make big and small data easier for the human brain to understand, and visualization also makes it easier to detect patterns, trends, and outliers in groups of data. Visualization in context of our project helps to understand which specific issues in Mumbai people are tweeting about and which of them are the most prominent. The most prominent issue is the one which has the longest bar in the bar plot. 
 
 
-### Understanding Results with Real Time Data :
+### Understanding Results with Real Time Data 
 
 ![alt text](https://github.com/adiimated/Twitter-Data-Analysis-To-Identify-Urban-Issues/blob/master/screenshots/Visualization.png)
 
