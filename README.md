@@ -5,7 +5,7 @@
 1. [Problem Statement](#problem-statement)
 2. [Objective](#objective)
 2. [Steps](#steps)
-    - [Subsection a](#subsection-a)
+    - [Data Scraping and Manual Labelling](#data-scraping-and-manual-labelling)
     - [Subsection b](#subsection-b)
 
 ## Problem Statement 
