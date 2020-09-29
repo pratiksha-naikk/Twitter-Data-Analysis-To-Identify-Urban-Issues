@@ -85,5 +85,4 @@ Data visualization is the act of taking data and placing it into a visual contex
 
 When we tested our code with real time data, the image above was one of the outcomes. From that we can say that the biggest issue mumbaikers tweeted about in february is 'Traffic', followed by potholes,illegal banners and transportation .
 
-
 #### Created by Chandrakantha Sruthi P., Shaily Pandey and Pratiksha Naik
